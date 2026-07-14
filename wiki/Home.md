@@ -5,7 +5,7 @@
 Story #9 — the era **`the-golden-fleece`**, which hands on to **`the-labyrinth *(unwritten — the story ends here)*`**.
 
 ```kotlin
-compileOnly("net.crewco:mythos-addon-api:0.1.3")
+compileOnly("net.crewco:mythos-addon-api:0.1.4")
 ```
 
 ## The mechanic worth knowing
