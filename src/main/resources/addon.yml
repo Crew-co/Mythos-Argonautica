@@ -1,0 +1,6 @@
+name: Argonautica
+version: 0.1.0
+main: net.crewco.mythos.argo.ArgoAddon
+api-version: 2
+authors: [ Crew-co ]
+description: Fifty players on one ship. A woman who does not have to help him, and does. And then he leaves her.
